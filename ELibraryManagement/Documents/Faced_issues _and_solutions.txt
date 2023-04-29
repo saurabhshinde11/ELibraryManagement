@@ -1,0 +1,4 @@
+Faced Issues & Solutions:
+This site can't be reached error-	https://stackoverflow.com/questions/44896765/this-site-cant-be-reached-error
+Enable/Disable directory browsing by using web.config - Windows Only-	https://hostmedia.uk/client/knowledgebase/67/EnableorDisable-directory-browsing-by-using-web.config---Windows-Only.html
+In bootstrap 5, use ms-auto instead of ml-auto and me-auto instead of mr-auto.- https://stackoverflow.com/questions/57832732/bootstrap-4-mr-auto-not-working-correctly
